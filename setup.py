@@ -18,7 +18,7 @@ setup(
         'seaborn',
         'matplotlib',
         'SigProfilerMatrixGenerator',
-        'SigProfilerExtractor',
+        'SigProfilerExtractor==1.1.24',
         'SigProfilerAssignment'
         # Add other dependencies
     ],
