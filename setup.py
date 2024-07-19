@@ -10,7 +10,7 @@ setup(
     install_requires=[
         # List your dependencies here
         'pandas<2.0.0',
-        'numpy',
+        'numpy<2.0.0',
         'pandas',
         'scikit-learn',
         'sigproSS',
